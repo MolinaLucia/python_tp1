@@ -1,6 +1,6 @@
 from random import choice, randrange
 from datetime import datetime
-import math
+
 
 # Operadores posibles
 operators = ["+", "-","*","/"]
